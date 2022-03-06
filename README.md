@@ -2,9 +2,9 @@
 
 <!--
 ** tevish321/tevish321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<!--
+
+
 ![Bonface-Cover](https://github.com/tevish321/tevish321/blob/main/cover.gif?raw=true)
--->
 
 About me:
 
