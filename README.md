@@ -8,13 +8,13 @@
 
 About me:
 
-- 🔭 I’m currently an Electrical and Telecommunications Student at Multimedia University of Kenya
+- 🔭 Electrical and Telecommunications Graduate from Multimedia University of Kenya
 - 🌱 I’m currently learning ITS usecases during my free time
 - 🤔 I’m interested in understanding how Data Science could be used in leveraging the Telecommunications sector
 - 💬 Lets talk Telecommunications, Data Science and the future of Wireless Networks
 - 📫 How to reach me: <a href="tel:+254723840366">+254723840366</a>
 - 😄 Pronouns: he/him
-- ⚡ Unsettling fact: Good at Procrastinating, working to fix this.
+- ⚡ Unsettling fact: I don't hate JAVA.
 
 <p align="center">
 	<a href="https://github.com/tevish321"><img src="https://img.shields.io/github/followers/tevish321.svg?label=GitHub&style=social" alt="GitHub"></a>
