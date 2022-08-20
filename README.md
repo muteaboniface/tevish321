@@ -14,7 +14,7 @@ About me:
 - 💬 Lets talk Telecommunications, Data Science and the future of Wireless Networks
 - 📫 How to reach me: <a href="tel:+254723840366">+254723840366</a>
 - 😄 Pronouns: he/him
-- ⚡ Unsettling fact: I don't hate JAVA.
+- ⚡ Unsettling fact: I do cold showers.
 
 <p align="center">
 	<a href="https://github.com/tevish321"><img src="https://img.shields.io/github/followers/tevish321.svg?label=GitHub&style=social" alt="GitHub"></a>
