@@ -9,7 +9,7 @@
 About me:
 
 - 🔭 Electrical and Telecommunications Graduate from Multimedia University of Kenya
-- 🌱 I’m currently learning ITS usecases during my free time
+- 🌱 I’m currently learning Java and 5G RAT
 - 🤔 I’m interested in understanding how Data Science could be used in leveraging the Telecommunications sector
 - 💬 Lets talk Telecommunications, Data Science and the future of Wireless Networks
 - 📫 How to reach me: <a href="tel:+254723840366">+254723840366</a>
