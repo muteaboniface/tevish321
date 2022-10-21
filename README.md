@@ -5,14 +5,14 @@
 
 
 ![Bonface-Cover](https://github.com/tevish321/tevish321/blob/main/cover.gif?raw=true)
-
+https://github.com/tevish321/tevish321/blob/main/README.md
 About me:
 
 - 🔭 Electrical and Telecommunications Graduate from Multimedia University of Kenya
 - 🌱 I’m currently learning Java and 5G RAT
 - 🤔 I’m interested in understanding how Data Science could be used in leveraging the Telecommunications sector
 - 💬 Lets talk Telecommunications, Data Science and the future of Wireless Networks
-- 📫 How to reach me: <a href="tel:+254723840366">+254723840366</a>
+- 📫 How to reach me: <a href="tel:+254........">...........</a>
 - 😄 Pronouns: he/him
 - ⚡ Unsettling fact: .......................
 
